@@ -1,0 +1,23 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="GmailAutomation">
+    <groups>
+    </groups>
+    <test name="com.selenium.testcase.TestCase">
+      <class name="com.selenium.testcase.TestCase">
+        <test-method status="PASS" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="516" started-at="2014-12-06T23:26:26Z" finished-at="2014-12-06T23:26:27Z">
+        </test-method>
+        <test-method status="PASS" signature="loginToGmail(java.util.HashMap)" name="loginToGmail" duration-ms="48175" started-at="2014-12-06T23:26:29Z" finished-at="2014-12-06T23:27:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=shrawangaur, password=thisoneformummy}]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

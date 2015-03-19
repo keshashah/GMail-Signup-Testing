@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.selenium.testcase.TestCase" failures="0" tests="1" time="51.145" errors="0">
+  <properties/>
+  <testcase name="loginToGmail" time="48.175" classname="com.selenium.testcase.TestCase"/>
+</testsuite>
